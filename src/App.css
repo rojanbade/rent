@@ -1,0 +1,9 @@
+.app-container {
+  margin: 0 100px;
+}
+
+.card-container {
+  box-shadow: 5px 5px 15px 2px rgb(190, 188, 188);
+  padding: 16px;
+  border-radius: 10px;
+}
